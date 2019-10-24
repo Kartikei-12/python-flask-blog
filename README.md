@@ -6,7 +6,7 @@
 
 ### Setup
 
-Run following comands in windows terminal(For Windows 7 and above).
+Run following comands in windows terminal (For Windows 7 and above).
 
     git clone https://github.com/Kartikei-12/python-flask-blog.git
 
@@ -23,12 +23,12 @@ Run following comands in windows terminal(For Windows 7 and above).
 
 ### Run Project
 
-In first terminal
+In first Terminal window
 
     python -m smtpd -n -c DebuggingServer localhost:8025
 
 
-In second Terminal
+In second Terminal window
     
     flask run
 
